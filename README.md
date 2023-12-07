@@ -1,6 +1,6 @@
 ### Yoo, Nice to meet you! 👋
 
-I'm a computer science graduate student. 
+I'm Whimmy, an MSc student in *computer science*. 
 
 I love photography📷, music🎧, and delicious food🍜, exploring the intersection of technology and creativity.
 
