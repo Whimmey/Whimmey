@@ -8,7 +8,7 @@ I love photography📷, music🎧, and delicious food🍜, exploring the interse
 
 ### Languages & Tools
 [![FrontEnd Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java)](https://skillicons.dev)
-[![FrontEnd Skills](https://skillicons.dev/icons?i=nodejs,vue,webpack,vite)](https://skillicons.dev)
+[![FrontEnd Skills](https://skillicons.dev/icons?i=nodejs,webpack,vue,vite)](https://skillicons.dev)
 
 [![Other Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
 [![Other Skills](https://skillicons.dev/icons?i=ps,pr)](https://skillicons.dev)
