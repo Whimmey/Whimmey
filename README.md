@@ -1,6 +1,6 @@
 ### Yoo, Nice to meet you! 👋
 
-I'm Whimmy, an MSc student in *computer science*. 
+I'm Whimmy, an doctoral student in *BME* (specializing in deep learning applications within the field). 
 
 I love photography📷, music🎧, and delicious food🍜, exploring the intersection of technology and creativity.
 
